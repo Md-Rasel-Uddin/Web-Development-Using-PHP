@@ -1,0 +1,11 @@
+ul li{
+	display: inline-block;
+	padding: 10px;
+
+}
+ul li a{
+	font-size: 20px;
+}
+#fontSize{
+	font-size: 20px;
+}
